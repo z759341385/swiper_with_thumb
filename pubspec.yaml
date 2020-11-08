@@ -11,6 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_swiper: ^1.1.6 #轮播图
 
 dev_dependencies:
   flutter_test:
